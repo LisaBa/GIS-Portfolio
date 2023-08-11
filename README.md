@@ -10,7 +10,7 @@ BIM · CAD · IFC · 3D-Visualisierung · Datenanalyse · Extract, Transform, Lo
 
 More information can be found on my LinkedIn profile: www.linkedin.com/in/lisa-bareiss
 
-Tech-Stack: python · R · JavaScript · Java · HTML · CSS · Leaflet · OpenLayers · Mapserver · ArcGIS Pro · ArcGIS Online · QGIS · FME · GoogleEarthEngine · ERDAS Imagine · ENVI · CityEngine · GIMP · Blender · AutoCAD ·  
+Tech-Stack: python · R · JavaScript · Java · HTML · CSS · PostgreSQL · MySQL · PgAdmin · Leaflet · OpenLayers · Mapserver · ArcGIS Pro · ArcGIS Online · QGIS · FME · GoogleEarthEngine · ERDAS Imagine · ENVI · CityEngine · GIMP · Blender · AutoCAD ·  
 
 # Projects
 
