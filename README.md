@@ -24,11 +24,17 @@ Tech-Stack: python · R · JavaScript · Java · HTML · CSS · PostgreSQL · My
 - Analysis of natrium in potato fields via remote sensing (ENVI)
 - Multivariate Statistical Analysis of geodata (R)
 
+Create subpages with screenshots and examples of the projects.
+
 ### Bachelor Thesis
 "The Visibility of National Borders – A Global Perspective with GIS"
 
+Some more text/description and some screenshots?
+
 ### Master Thesis
 "Semantic Segmentation of Solar Photovotaic Arrays in Very High-Resolution Aerial Images Using a Convolutional Neural Network"
+
+Some more text/description and some screenshots?
 
 ## Work Projects
 
@@ -43,6 +49,8 @@ Tech-Stack: python · R · JavaScript · Java · HTML · CSS · PostgreSQL · My
 - Programming of python toolbox for calculation of emergency landing areas for drones in urban areas (ArcGIS Pro, python)
 - Programming of ArcGIS Pro Add-in for automatic generation of animation keyframes derived from point layer (ArcGIS Pro SDK for .NET)
 - ...
+
+Create subpages with screenshots and examples of the projects.
 
 ## Certifications and Training
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/D3YC38JCAGA8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - 12/2021
