@@ -50,7 +50,14 @@ Some more text/description and some screenshots?
 - Programming of ArcGIS Pro Add-in for automatic generation of animation keyframes derived from point layer (ArcGIS Pro SDK for .NET)
 - ...
 
-Create subpages with screenshots and examples of the projects.
+(Create subpages with screenshots and examples of the projects.)
+
+## Side Quests
+
+I like to automate tasks that are recurring and transform data into a format that is useful for the given task. So some fun small side projects:
+- Before it was possible to bulk save symbologies in ArcGIS Pro from a map to a style (has finally been implemented in ArcGIS Pro 3.2), I wrote a little python toolbox to export the style of the map myself. This was fun use of the python packages sqlite3 and json and needed some digging in the format of how styles are saved in ArcGIS Pro
+- For the visualization of a drone path (animation of ArcGIS Pro Scene) I needed a possibility to automatically generate a bunch of keyframes. Therefore I used the ArcGIS Pro SDK for .NET and created a small Add-In for ArcGIS Pro using C#. The Add-In proved useful as it was also used for the visualisation of a drive-through of a planned tree-lined road
+- I'm a big fan of Excel and like to create fun little helper tables, when it comes to different tasks (reformatting work timetables, etc.)
 
 ## Certifications and Training
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/D3YC38JCAGA8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - 12/2021
@@ -62,7 +69,10 @@ Create subpages with screenshots and examples of the projects.
 ## Publications and Presentations
 - **Bareiss, L.** (2022): Presentation on Attributes and Transformation of Semantic Information from GIS to BIM, [Werkstatt BIM (BDLA)](https://www.bdla.de/de/nachrichten/pressemitteilungen/3595-bdla-werkstatt-bim-implementation), Frankfurt/Main.
 - **Bareiss, L.** (2023): 3D/4D-Simulationsmodelle für die Entwicklung von Alleestrecken an Straßen, FGSV Expertenworkshop - [Vorhandene Prozessmodelle zur Verwendung im Landscape Information Modelling (LIM)](https://www.fgsv.de/aktuelles/news-details/online-expertenworkshop-zur-verwendung-von-prozessmodellen-in-der-landschaftsinformationsmodellierung), online. 
-- Hänchen, L., Hecht, R., Reiter, D., Rieche, T., Pajares, E., Seisenberger, S., Gnädinger, J., Plail, A., **Bareiss, L.** (2024): Indicators for assessing the supply, demand and accessibility of urban green spaces in the context of a planning instrument, Journal of Digital Landscape Architecture, 9-2024, pp. 460-470. © Wichmann Verlag, VDE VERLAG GMBH · Berlin · Offenbach.
+- Hänchen, L., Hecht, R., Reiter, D., Rieche, T., Pajares, E., Seisenberger, S., Gnädinger, J., Plail, A., **Bareiss, L.** (2024): [Indicators for assessing the supply, demand and accessibility of urban green spaces in the context of a planning instrument](https://gispoint.de/fileadmin/user_upload/paper_gis_open/DLA_2024/537752042.pdf), Journal of Digital Landscape Architecture, 9-2024, pp. 460-470. © Wichmann Verlag, VDE VERLAG GMBH · Berlin · Offenbach.
 - **Bareiss, L.**, Saala, C. & Gnädinger, J. (im Druck): GIS und BIM am Beispiel von Infrastrukturprojekten. – In: Pietsch, M. & Henning M. (Hrsg.): GIS in Landschaftsarchitektur und Umweltplanung.
+
+## Classical CV
+(Upload CV in pdf format)
   
 
