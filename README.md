@@ -10,7 +10,7 @@ BIM · CAD · IFC · 3D-Visualisierung · Datenanalyse · Extract, Transform, Lo
 
 More information on my LinkedIn profile: www.linkedin.com/in/lisa-bareiss
 
-**Tech-Stack**: python · R · JavaScript · Java · HTML · CSS · PostgreSQL · MySQL · PgAdmin · Leaflet · OpenLayers · Mapserver · ArcGIS Pro · ArcGIS Online · QGIS · FME · GoogleEarthEngine · ERDAS Imagine · ENVI · ArcGIS CityEngine · GIMP · Blender · AutoCAD ·  
+**Tech-Stack**: python · R · JavaScript · Java · HTML · CSS · PostgreSQL · MySQL · PgAdmin · Leaflet · OpenLayers · Mapserver · ArcGIS Pro · ArcGIS Online · QGIS · FME · GoogleEarthEngine · ERDAS Imagine · ENVI · ArcGIS CityEngine · GIMP · Blender · AutoCAD   
 
 # Projects
 
@@ -24,17 +24,17 @@ More information on my LinkedIn profile: www.linkedin.com/in/lisa-bareiss
 - Analysis of natrium in potato fields via remote sensing (ENVI)
 - Multivariate Statistical Analysis of geodata (R)
 
-Create subpages with screenshots and examples of the projects.
+[comment]: <> (Create subpages with screenshots and examples of the projects.)
 
 ### Bachelor Thesis
 "The Visibility of National Borders – A Global Perspective with GIS"
 
-Some more text/description and some screenshots?
+[comment]: <> (Some more text/description and some screenshots?)
 
 ### Master Thesis
 "Semantic Segmentation of Solar Photovotaic Arrays in Very High-Resolution Aerial Images Using a Convolutional Neural Network"
 
-Some more text/description and some screenshots?
+[comment]: <> (Some more text/description and some screenshots?)
 
 ## Work Projects
 
@@ -50,7 +50,7 @@ Some more text/description and some screenshots?
 - Programming of ArcGIS Pro Add-in for automatic generation of animation keyframes derived from point layer (ArcGIS Pro SDK for .NET)
 - ...
 
-(Create subpages with screenshots and examples of the projects.)
+[comment]: <> (Create subpages with screenshots and examples of the projects.)
 
 ## Side Quests
 
@@ -74,6 +74,6 @@ I like to automate tasks that are recurring and transform data into a format tha
 - **Bareiss, L.**, Saala, C. & Gnädinger, J. (im Druck): GIS und BIM am Beispiel von Infrastrukturprojekten. – In: Pietsch, M. & Henning M. (Hrsg.): GIS in Landschaftsarchitektur und Umweltplanung.
 
 ## Classical CV
-(Upload CV in pdf format)
+[comment]: <> (Upload CV in pdf format)
   
 
