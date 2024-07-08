@@ -64,6 +64,7 @@ I like to automate tasks that are recurring and transform data into a format tha
 - [ArcGIS Pro Foundation 2101 certificate](https://www.credly.com/badges/eb65b293-2a79-4a06-b3d2-8612e9feb812/public_url) - 10/2023
 - [ArcGIS Pro Associate 2101 certificate](https://www.credly.com/badges/3dca2776-a401-420c-8941-a9d6c966b691) - 05/2024
 - [Installation and Configuration of ArcGIS Enterprise](data/ArcGISEnterprise_Training_2024.pdf) (2 day training) - 06/2024
+- [ArcGIS API for Python Associate 2024] (https://www.credly.com/badges/770a7f7f-e723-4137-89b8-357f64815076) - 07/2024
 - ESRI MOOCs: [Cartography](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/65129487edb0bf05f01d84f8/-120), [Spatial Data Science - The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/63c64df9d6768d629ca6329f/-120), [Transform AEC Projects with GIS and BIM](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/63c64ddfd6768d629ca63133/-120), [Going Places with Spatial Analysis](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/63c64b7fd6768d629ca619c0/-60)
 
 ## Publications and Presentations
