@@ -14,6 +14,8 @@ More information on my LinkedIn profile: www.linkedin.com/in/lisa-bareiss
 
 # Projects
 
+A little insight into some GIS and remote sensing projects I have done over the years. 
+
 ## Study Projects
 
 - Analysis of climate data using CDO and visualization with python (CDO, python)
