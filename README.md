@@ -8,7 +8,7 @@ I'm Lisa, 31 years old and after doing my Bachelors in Environmental Sciences at
 
 BIM · CAD · IFC · 3D-Visualisierung · Datenanalyse · Extract, Transform, Load (ETL) · Geoinformationssysteme (GIS) · python · Fernerkundung · ArcGIS · QGIS · FME
 
-More information can be found on my LinkedIn profile: www.linkedin.com/in/lisa-bareiss
+More information on my LinkedIn profile: www.linkedin.com/in/lisa-bareiss
 
 Tech-Stack: python · R · JavaScript · Java · HTML · CSS · PostgreSQL · MySQL · PgAdmin · Leaflet · OpenLayers · Mapserver · ArcGIS Pro · ArcGIS Online · QGIS · FME · GoogleEarthEngine · ERDAS Imagine · ENVI · ArcGIS CityEngine · GIMP · Blender · AutoCAD ·  
 
