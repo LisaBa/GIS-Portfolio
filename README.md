@@ -4,7 +4,7 @@ This is a short introduction into my work in the world of GIS and Remote Sensing
 
 # About me
 
-I'm Lisa, 31 years old and after doing my Bachelors in Environmental Sciences at the Leuphana University I went and did my Masters at Trier University in Geoinformatics. Now I'm living in Munich and work as a GIS-Expert and GIS-App-Developer at a Environmental Consulting company. My focus is on GIS analysis, data transformation and 3D visualization.
+I'm Lisa, 31 years old and after doing my Bachelors in [Environmental Sciences](https://www.leuphana.de/en/college/bachelor/environmental-sciences-major.html?gad_source=1&cHash=e536f5cbc92b50b6899614da3bfabd7c) at the Leuphana University Lüneburg with a minor in philosophy I went and did my Masters at Trier University in [Geoinformatics](https://www.uni-trier.de/en/studium/studienfaecher/studienfaecher/studiengang?sgaid=175&cHash=65fdd6f82db7d64fa49eca47a74bd9aa). Now I'm living in Munich and work as a GIS-Expert and GIS-App-Developer at a Environmental Consulting company. My focus is on GIS analysis, data transformation and 3D visualization.
 
 BIM · CAD · IFC · 3D-Visualisierung · Datenanalyse · Extract, Transform, Load (ETL) · Geoinformationssysteme (GIS) · python · Fernerkundung · ArcGIS · QGIS · FME
 
