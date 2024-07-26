@@ -68,7 +68,7 @@ I like to automate tasks that are recurring and transform data into a format tha
 - [Installation and Configuration of ArcGIS Enterprise](data/ArcGISEnterprise_Training_2024.pdf) (2 day training) - 06/2024
 - [ArcGIS API for Python Associate 2024](https://www.credly.com/badges/770a7f7f-e723-4137-89b8-357f64815076) - 07/2024
 - ESRI MOOCs: [Cartography](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/65129487edb0bf05f01d84f8/-120), [Spatial Data Science - The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/63c64df9d6768d629ca6329f/-120), [Transform AEC Projects with GIS and BIM](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/63c64ddfd6768d629ca63133/-120), [Going Places with Spatial Analysis](https://www.esri.com/training/TrainingRecord/Certificate/l.bareiss_psu_schaller/63c64b7fd6768d629ca619c0/-60)
-- buildingSMART Tutorials: [BIM-Datenmanagement mit IFC-Objekten](https://www.buildingsmart.de/termine/buildingsmart-tutorial-bim-datenmanagement-mit-ifc-objekten)
+- buildingSMART Tutorials: [BIM-Datenmanagement mit IFC-Objekten](https://www.buildingsmart.de/termine/buildingsmart-tutorial-bim-datenmanagement-mit-ifc-objekten), [Wir sehen uns im BIM Modell](https://www.buildingsmart.de/termine/wir-sehen-uns-im-bim-modell-open-bim-mit-ifc-ids-und-bcf-koordination-der-fachgewerke-mit)
 
 ## Publications and Presentations
 - **Bareiss, L.** (2022): Presentation on Attributes and Transformation of Semantic Information from GIS to BIM, [Werkstatt BIM (BDLA)](https://www.bdla.de/de/nachrichten/pressemitteilungen/3595-bdla-werkstatt-bim-implementation), Frankfurt/Main.
