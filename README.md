@@ -1,6 +1,6 @@
 # GIS-Portfolio
 
-This is a short introduction into my work in the world of GIS and Remote Sensing.
+This is a short introduction into my work in the world of GIS and Remote Sensing, and the occational BIM stuff.
 
 # About me
 
